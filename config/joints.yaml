@@ -1,0 +1,42 @@
+gazebo_ros_control:
+  pid_gains:
+    joint_right_abd:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    joint_right_hip_flexion:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    right_knee_joint:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    right_ankle_flexion:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    joint_left_abd:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    joint_left_hip_flexion:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    joint_left_knee_flexion:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+
+    joint_left_ankle_flexion:
+      p: 5.0
+      i: 5.1
+      d: 5.0
+    
